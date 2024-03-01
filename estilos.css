@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+p{
+    font-size: 9 px;
+}
+
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
